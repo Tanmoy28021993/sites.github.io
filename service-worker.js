@@ -1,1 +1,1 @@
-importScripts('https://ssl.widgets.webengage.com/js/tanmoy28021993.github.io/service-worker.js');
+importScripts('https://ssl.widgets.webengage.com/js/service-worker.js');
